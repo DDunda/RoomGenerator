@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\Debug\RoomGenerator.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\begin_code.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\close_code.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_assert.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_atomic.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_audio.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_bits.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_blendmode.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_clipboard.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_android.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_iphoneos.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_macosx.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_minimal.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_pandora.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_psp.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_windows.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_winrt.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_config_wiz.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_copying.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_cpuinfo.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_egl.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_endian.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_error.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_events.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_filesystem.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_gamecontroller.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_gesture.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_haptic.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_hints.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_joystick.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_keyboard.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_keycode.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_loadso.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_log.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_main.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_messagebox.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_metal.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_mouse.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_mutex.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_name.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengl.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengles.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengles2.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengles2_gl2.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengles2_gl2ext.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengles2_gl2platform.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengles2_khrplatform.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_opengl_glext.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_pixels.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_platform.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_power.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_quit.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_rect.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_render.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_revision.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_rwops.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_scancode.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_sensor.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_shape.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_stdinc.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_surface.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_system.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_syswm.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_assert.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_common.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_compare.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_crc32.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_font.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_fuzzer.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_harness.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_images.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_log.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_md5.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_memory.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_test_random.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_thread.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_timer.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_touch.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_types.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_version.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_video.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2\include\SDL_vulkan.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2_image\include\SDL_image.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\SDL2_mixer\include\SDL_mixer.h</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
