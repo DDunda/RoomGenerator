@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\Source.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\RoomGenerator\Source.cpp(341,47): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
-  RoomGenerator.vcxproj -> D:\NewDesktop\Programming\VS projects\C++\RoomGenerator\Debug\RoomGenerator.exe
